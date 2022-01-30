@@ -24,7 +24,7 @@ In this project we have assumed that we have two level memory Hierarchy.
     
 ## Authors 
 1. [Salma Sleem](https://github.com/salmasleem)
-2. 
+2. [Malak El Kashab](https://github.com/malakel-khashab)
 3. 
 4. 
 
