@@ -13,9 +13,13 @@ In this project we have assumed that we have two level memory Hierarchy.
 2.  First, the system has to look if the block at the required address was mapped somewhere in the cache.
 3.  If found in the cache, there is no need to go to the main memory.
 4.  If the data is not available in the cache then:
-    a.  The system has to rad the block from the main memory
+
+    a.  The system has to rad the block from the main memory.
+    <br/>
     b. The bread block has to be placed in the cache.
+     <br/>
     c. The place where the block is placed in the cache depends on the type of the cache as shown in the next section.
+     <br/>
     d. If the chosen cache location(line) is not empty, then the block already in the cache will be overwritten by the new block read from the main memory.
     
 ## Authors 
